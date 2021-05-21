@@ -1,0 +1,9 @@
+All GET routes return data without having to be logged in
+All models adhere to provided templates
+All Account and Profile Routes return appropriate data
+Account info cannot be changed by someone other than the account owner when logged in
+All Blog Routes return appropriate data
+Blogs can only be edited or deleted by their creator
+All Comment Routes return appropriate data
+Comments can only be edited or deleted by their creator
+All postman tests pass

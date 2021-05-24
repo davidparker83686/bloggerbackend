@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace bloggerbackend.Models
 {
-  public class Blogs
+  public class Blog
   {
     public int Id { get; set; }
     [Required]
